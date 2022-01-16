@@ -4,7 +4,7 @@ Här hittar du D-sektionens latexmallar! Det finns några olika varianter på he
 ## Overleaf
 **Absolut enklast sätt att skriva snygga Dsek-dokument är att utgå från Overleaf templaten.**
 
-Det finns en fungerande DSek Overleaf-template, som ni kan hitta och klona [här!](https://www.overleaf.com/read/ckwqrthmfwhv). Den innehåller minst alla symboler och alla klasser/stilfiler som detta repo innehåller.
+Det finns en fungerande DSek Overleaf-template, som ni kan hitta och klona [här!](https://www.overleaf.com/read/ckwqrthmfwhv). Du klonar genom **Menu -> Copy Project**. Den innehåller minst alla symboler och alla klasser/stilfiler som detta repo innehåller. 
 
 ## Installation
 1. Klona detta repo, antingen ladda ned som en zip uppe i högra hörnet, eller i terminalen med följande 
